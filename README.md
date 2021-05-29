@@ -1,4 +1,4 @@
-# To Do List: Creep :page_facing_up::purple_heart:
+# To Do List: Ceep :page_facing_up::purple_heart:
 
 Projeto realizado durante o curso <a href="https://cursos.alura.com.br/course/js-web-armazenando-dados-navegador" target="_blank">JS na Web: Armazenando dados no navegador</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 
